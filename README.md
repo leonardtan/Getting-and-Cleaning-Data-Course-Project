@@ -17,11 +17,11 @@ Content of Repository
 ---------------------
 This repository consist of 4 files and a folder containing the source data.
 
-CodeBook.md     | Summary on the coding approach taken\n
-README.md       | The file you are reading now\n
-Result.txt      | Answer to Step 5 of this course project\n
-run_analysis.R  | The source code of this course project\n
-UCI HAR Dataset | Data Source
+1. CodeBook.md     | Summary on the coding approach taken
+2. README.md       | The file you are reading now
+3. Result.txt      | Answer to Step 5 of this course project
+4. run_analysis.R  | The source code of this course project
+5. UCI HAR Dataset | Data Source
 
 Things to note
 --------------
