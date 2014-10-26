@@ -17,7 +17,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 Dataset used in Transformation
 ------------------------------
-The following files are the observations captured for each subject, activities and measurements.
+The following files are the observations captured for each subject, activities and measurements
 
 1. subject_test.txt
 2. X_test.txt
@@ -26,7 +26,8 @@ The following files are the observations captured for each subject, activities a
 5. X_train.txt
 6. y_train.txt
 
-The following files provide more descriptive labeling for activities and measurements.
+The following files provide more descriptive labeling for activities and measurements
+
 1. activity_labels.txt
 2. features.txt
 
