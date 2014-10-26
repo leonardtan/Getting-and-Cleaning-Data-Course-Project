@@ -19,16 +19,16 @@ Dataset used in Transformation
 ------------------------------
 The following files are the observations captured for each subject, activities and measurements.
 
-1.subject_test.txt
-2.X_test.txt
-3.y_test.txt
-4.subject_train.txt
-5.X_train.txt
-6.y_train.txt
+1. subject_test.txt
+2. X_test.txt
+3. y_test.txt
+4. subject_train.txt
+5. X_train.txt
+6. y_train.txt
 
 The following files provide more descriptive labeling for activities and measurements.
-activity_labels.txt
-features.txt
+1. activity_labels.txt
+2. features.txt
 
 
 Result.Txt
