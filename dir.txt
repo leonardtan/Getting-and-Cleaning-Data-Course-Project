@@ -1,0 +1,15 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is ACEE-64AA
+
+ Directory of C:\Users\ltan\Documents\Coursera\Getting-and-Cleaning-Data-Course-Project
+
+10/26/2014  12:52 PM    <DIR>          .
+10/26/2014  12:52 PM    <DIR>          ..
+10/26/2014  12:42 PM               128 CodeBook.md
+10/26/2014  12:52 PM                 0 dir.txt
+10/26/2014  12:42 PM               128 README.md
+10/26/2014  12:45 PM           224,582 Result.txt
+10/26/2014  12:44 PM             3,286 run_analysis.R
+10/26/2014  12:43 PM    <DIR>          UCI HAR Dataset
+               5 File(s)        228,124 bytes
+               3 Dir(s)  54,032,048,128 bytes free
