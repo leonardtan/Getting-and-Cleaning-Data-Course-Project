@@ -1,10 +1,13 @@
 Code Book for run_analysis.R
 ========================================
 
-Result
+Source
 ------
-Result.Txt (Tab Seperated) is created as a result of run_analysis.R script. 
+Source of the Data Set is given from the Course Project which can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+Source Information
+------------------
+Full Description of the Source Data can be view from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Result.Txt
 -----------
@@ -79,4 +82,17 @@ This file consist of 69 fields which is a aggregation average of all variables t
 67. fBodyBodyGyroMag.std
 68. fBodyBodyGyroJerkMag.mean
 69. fBodyBodyGyroJerkMag.std
+
+Pseudocode
+----------
+1. Load Train and Test Data Files into Data Frame for Observations for Subject, Activity and Measurement
+2. Create Common Index for Subject, Activity and Measurements
+3. Merge all Subject, Activity and Measure into a Data Frame per Train and Test Data Frame
+4. Consolidate Train and Test into a Single Data Frame
+5. Filter Data Frame with only Variables that contains Mean or Standard Deviation
+6. Rename Columns with more meaningful labels
+7. Merge Activity Labels to Data Frame
+8. Aggregate Data Frame by Subject and Activity
+9. Tidy up Aggregated Data Frame by removing and renaming columns
+10. Write Final DataFrame to File
 
