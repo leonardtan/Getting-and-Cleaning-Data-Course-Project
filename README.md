@@ -25,5 +25,5 @@ This repository consist of 4 files and a folder containing the source data.
 
 Things to note
 --------------
-Please remember to check your working directories using getwd() before running run_analysis.R to avoid any issues when loading the files.  You can use setwd() to set the working directory.
+Please remember to check your working directories using 'getwd()' before running run_analysis.R to avoid any issues when loading the files.  You can use 'setwd()' to set the working directory.
 
