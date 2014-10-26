@@ -2,6 +2,7 @@ Getting-and-Cleaning-Data-Course-Project
 ========================================
 
 Introduction
+============
 This repository comprises the solution for Course Project of Getting and Cleaning Data.  The Source Data is also included in this table with the intention to allow the evaluator to fork and run the R code as intended. 
 
 Source
